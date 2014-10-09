@@ -28,6 +28,6 @@
 
 // @prepros-append vendor/webfont.js
 // /* @prepros-append vendor/fitvids.js */
-//  @prepros-append vendor/bigtext.js 
+// @prepros-append vendor/bigtext.js 
 // /* @prepros-append vendor/responsiveslides.js */
 
